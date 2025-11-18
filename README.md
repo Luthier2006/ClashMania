@@ -1,5 +1,6 @@
-<h1 align="center">ClashMania – The Portal to Strategic Chaos!</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5a623&size=35&center=true&vCenter=true&width=1000&lines=ClashMania+–+The+Portal+to+Strategic+Chaos!)](https://git.io/typing-svg) 
 
+--------------------------------------------------
 <p>Welcome to ClashMania, a project created by a true Clash Royale fan, dedicated to bringing together informative, fun, and visually insane content from the game's universe.
 
 Here you'll find epic battles, card comparisons, statistics, videos, trivia, and everything that involves this exciting arena!</p>
